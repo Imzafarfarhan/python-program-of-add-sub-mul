@@ -1,0 +1,6 @@
+a,b = 30,15
+print(a+b) #for addition
+print(a-b) # for subtraction
+print(a*b) #for multiply
+print(a/b) #for devide
+print(a%b) #for remainder
